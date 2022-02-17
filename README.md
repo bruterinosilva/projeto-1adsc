@@ -1,2 +1,1 @@
-# projeto-1adsc
-Projeto criado na aula de Git e Github
+Este é um arquivo teste 
